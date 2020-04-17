@@ -28,6 +28,11 @@
         <module>person</module>
         <module>primaryStudent</module>
         <module>salary</module>
+        <module>oopInterface</module>
+        <module>oopStatic</module>
+        <module>oopPackage</module>
+        <module>myStringBuilder</module>
+        <module>stringJoiner</module>
     </modules>
 
     <properties>
